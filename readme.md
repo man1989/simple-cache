@@ -1,8 +1,8 @@
-#simple-cache
+# simple-cache
 Caches data locally
 This is a very naive solution, just a showcase how things could be implemented
 
-##usage:-
+## usage:-
 ```
 const Cache = require("simple-cache");
 let localCache = new Cache();
