@@ -1,0 +1,8 @@
+{
+    "name": "simple-cache",
+    "version":"0.1.0",
+    "author": "Manish Kumar <manish.sep1989@gmail.com>",
+    "engines": {
+        "node": ">=8.0.0"
+    }
+}
