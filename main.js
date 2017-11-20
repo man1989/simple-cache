@@ -34,7 +34,7 @@ class Cache {
             while (end < ttl) {
                 end = Date.now() - start;
             }
-            if (end <= ttl) {
+            if (end >= ttl) {
                 cb();
             }
         });
